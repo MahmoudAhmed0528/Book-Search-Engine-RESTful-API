@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search-engine-restful-api",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "mongodb": "^6.3.0"
   }
 }
