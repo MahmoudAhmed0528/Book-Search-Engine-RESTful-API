@@ -30,7 +30,6 @@ The Book Search and Management App provides users with a platform to search for 
 - **Frontend**: React.js, React Bootstrap, Apollo Client
 - **Backend**: Node.js, Express.js, Apollo Server, MongoDB, Mongoose
 - **Authentication**: JSON Web Tokens (JWT), bcrypt
-- **GraphQL**: The backend of this application uses GraphQL for querying and mutating data. The Apollo Server handles GraphQL operations and communicates with the MongoDB database.
 - **API**: Utilizes RESTful APIs for communication between the frontend and backend server and Google Books API
 - **Deployment**: Heroku
 
@@ -70,7 +69,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Deployment
 
-- **Heroku:** [Link to deployed App](https://hidden-lake-30002-c49edad008b9.herokuapp.com/)
+- **Heroku:** [Link to deployed App]()
 
 ## License
 
