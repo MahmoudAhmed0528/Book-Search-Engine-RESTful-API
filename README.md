@@ -69,7 +69,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Deployment
 
-- **Heroku:** [Link to deployed App]()
+- **Heroku:** [Link to deployed App](https://enigmatic-caverns-73160-ebef579134e1.herokuapp.com/)
 
 ## License
 
